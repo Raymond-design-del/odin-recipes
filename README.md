@@ -1,6 +1,6 @@
 # odin-recipes
 
-This a recipes page.
+This is a recipe website.
 The skills I developed are how to;
 - structure my project, 
 - work with text elements,
